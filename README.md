@@ -12,6 +12,7 @@ As a West Midlands-based certified Data Analyst, I wanted to investigate how pub
 ## 📊 Key Operational Insights
 *   **Identifying Attrition Bottlenecks:** The interactive Decomposition Tree allows managers to select specific courses (e.g., "Refereeing Level 1") and trace drop-out rates down to the exact local authority (such as Sandwell or Dudley) to guide support allocation.
 *   **Operational Reporting:** Measures the overall Course Completion Rate and Average Satisfaction scores, allowing the business to monitor the performance of learning programmes objectively.
+*   [](Decomposition_tree.png)
 
 ## 🏆 Skills Demonstrated
 *   **Data Generation:** Programmed a standard Python script to model a clean, relational CSV dataset.
