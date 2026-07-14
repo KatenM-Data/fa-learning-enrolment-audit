@@ -10,9 +10,12 @@ As a West Midlands-based certified Data Analyst, I wanted to investigate how pub
 *   **The Solution:** I built an interactive Power BI dashboard to clean, process, and visualise student progress. Using a Decomposition Tree visual, I enabled users to drill down into specific courses and local authorities to identify attrition bottlenecks in under three seconds.
 
 ## 📊 Key Operational Insights
-*   **Identifying Attrition Bottlenecks:** The interactive Decomposition Tree allows managers to select specific courses (e.g., "Refereeing Level 1") and trace drop-out rates down to the exact local authority (such as Sandwell or Dudley) to guide support allocation.
+*   **Identifying Attrition Bottlenecks:** The interactive Decomposition Tree allows managers to select specific courses (e.g., "Refereeing Level 1") and trace drop-out rates down to the exact local authority to guide support allocation.
+
+![Decomposition Tree Analysis](Decomposition_tree.png)
+*(Above: Close-up of the interactive Decomposition Tree, displaying course status and product pathway drop-off distributions.)*
+
 *   **Operational Reporting:** Measures the overall Course Completion Rate and Average Satisfaction scores, allowing the business to monitor the performance of learning programmes objectively.
-*   [](Decomposition_tree.png)
 
 ## 🏆 Skills Demonstrated
 *   **Data Generation:** Programmed a standard Python script to model a clean, relational CSV dataset.
